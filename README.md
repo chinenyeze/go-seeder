@@ -1,2 +1,2 @@
 # go-seeder
-A simple library for database seeding.
+A simple Golang library for database seeding.
